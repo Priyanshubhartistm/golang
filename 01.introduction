@@ -1,0 +1,84 @@
+GO Lang  = bhut hi fast
+Performant
+efficient Application ham bana skte h,
+
+iska jo synatx h, oo bhut hi, simple h, bhut hi jaldi aap sikh jaoge.
+
+c lang. jaisi fillings ane wali h,
+low level lang.
+go lang, used by high profile company like:- google, uber, netflix.
+
+bhut sari low level chizo ke bare me sikhne ko milega, jaise ki:-
+1. Multi-threading
+2. mutexes
+3. buffers
+4. networks
+
+Golang k use karke aap bhut sari package bana skte ho, cloud application bana skte ho.
+
+Dooker, Kubrneties v go me bana h.
+
+ise v aap andaj laga skte ho ki go kitni powerfull language h.
+
+and one more thing ek iski ki standard libary jo h, oo itni jada capable h, ki apko kise v trh application bana h, to apko iske liye 3rd party package install krne ki koye jrurt ni h.
+sari chize jitni v required chize h, oo sb isme mil jati h.
+
+kise v type k application banane ke liye oo apko iski standared library ke andr milega.
+jo "in-built" h, iske andr.
+
+// 5. Reason to choose Golang:-
+
+1. Build time       = Fast
+Golang has a fast build time, which allows developers to quickly compile and run their applications, enhancing productivity.
+
+jab v apko application ko deploy krna h, to uske liye apko phle build krna hoga, to build krne me kitna time lgta h, y bhut hi important hota h, q ki jab v hm produaction ke andr jo hmre programmes h, usko
+use krte h, to y jo build process hoti h, y hoti h, "ci- ct" pipline ke andr, me to  "ci- ct" pipline ke andr, jitna jaldi apka application build ho raha h, utna acha h, q ki "ci-ct ki resource kam use kroge or agr apka application jldi se build hota h, to jldi se aap use test krke ship kr skte ho.
+or y go andr y built time bhut km hota h,mtlb bhut hi fast go programme build ho jata h.
+
+2. Fast startup     = Fast
+Golang has a fast startup time, which means applications can start quickly, improving the overall user experience.
+
+ki jab v aap application ko deploy karke run karte ho, to usko kitna time lgt h, up and running hone me,mtlb use request ko accept hone me kitna time lgt h, 
+y bhut hi important hota h, q ki agar aapka application jldi se up and running ho jata h, to user ko acha experience milta h, or y go andr bhut hi fast hota h,
+mtlb aapka application jldi se up and running ho jata h.
+
+
+3. Performance and efficiency = High
+Golang is designed for high performance and efficiency, making it suitable for building scalable applications.
+
+go ke jo programming hote h, n server ke jo resources hote h, apke memory, cpu, or disk, isko kafi efficient tarike se use krte h.
+
+4. Concurrency typing and compilation = Strong
+Golang has strong support for concurrency, allowing developers to write programs that can handle multiple tasks simultaneously.
+
+go rutines h, jo ki jitne v apke multithread jitne v apke server ke , aj kal ke jo model cpus h, uske andr multiple codes hote h, to y golang jo h, oo kya krti h, o sare
+course h, usko utlize kr skti h, efficient tarike se.
+
+5. Static typing and compilation = Reliable
+Golang uses static typing, which helps catch errors at compile time, leading to more reliable code.
+
+aap jo variable declare krte ho to uska error compile time pr hi aa jata h, isliye aapko run time pr error dekhne ko ni milega.
+jo non - static lang. hoti h, uske andr agr koye error h, to production ke andr jane ke bad hame pata chlta h, use ham bach jate h, yaha pe.
+
+NOTE:- jab v ham programme ko build krte h, to jo executable file banti h, ek single file ke andr compile hoti h, 
+or uski "size jo h, n oo bhut hi kam" hoti h.
+
+bhut choti size hoti h, as compare to another language.
+
+// 12. Another Reason to choose Golang
+Golang is a powerful programming language that offers several advantages for developers. Here are some key reasons to choose Golang for your next project.
+
+
+1. Fast and efficient: Golang is designed for high performance, making it suitable for building scalable applications.
+2. Simple syntax: The language has a clean and easy-to-understand syntax, which allows developers to quickly write and maintain code.
+3. Concurrency support: Golang has built-in support for concurrent programming, making it easier to write programs that can handle multiple tasks simultaneously.
+4. Strong standard library: Golang comes with a powerful standard library that provides many built-in functions and packages, reducing the need for third-party libraries.
+5. Cross-platform compatibility: Golang can be compiled to run on various operating systems, making it versatile for different environments.
+6. Strong community support: Golang has a growing community that contributes to its development and provides resources for learning and troubleshooting.
+
+7. Static typing: Golang uses static typing, which helps catch errors at compile time, leading to more reliable code.
+8. Garbage collection: Golang has an efficient garbage collector that helps manage memory automatically, reducing memory leaks and improving performance.
+9. Built-in testing framework: Golang includes a testing framework that makes it easy to write and run tests, ensuring code quality and reliability.
+10. Open-source: Golang is an open-source language, which means it is free to use and has a large number of contributors who continuously improve it.
+11. Excellent tooling: Golang provides a rich set of tools for code formatting, linting, and debugging, which enhances the development experience.
+12. Strong focus on simplicity: Golang emphasizes simplicity and clarity in its design, making it easier for developers to understand and work with the codebase.
