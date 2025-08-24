@@ -17,6 +17,6 @@ func main() {
 
 	// classic for loop
 	// for i := 0; i <= 3; i++ {
-	// 	// break
+	// 	// break = loop ko stop krne ke liye use hota h,
 
 }
