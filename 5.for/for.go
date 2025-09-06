@@ -16,7 +16,7 @@ func main() {
 
 	// infinite loop
 	// for {
-	// 	println("1")
+	// 	Println("1")
 	// }
 
 	// classic for loop
