@@ -13,12 +13,12 @@ func main() {
 
 	// }
 
-	age := 5
+	age := 10
 
 	if age >= 18 {
 		fmt.Println("You are an adult")
 
-	} else if age <= 12 {
+	} else if age >= 12 {
 		fmt.Println("You are a teenager")
 	} else {
 
