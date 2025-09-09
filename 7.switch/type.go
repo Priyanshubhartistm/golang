@@ -20,7 +20,7 @@ func main() {
 			fmt.Println("its a boolean")
 
 		default:
-			fmt.Println("other")
+			fmt.Println("other, t")
 
 		}
 	}
