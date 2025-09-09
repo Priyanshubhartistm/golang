@@ -1,5 +1,9 @@
 // type switch
 
+package main
+
+func main() {
+
 whoAmI := func(i interface{}) {
 
 	switch t := i.(type) {
@@ -17,4 +21,6 @@ whoAmI := func(i interface{}) {
 
 default:
 	fmt.Println("other")
+}
+
 }
