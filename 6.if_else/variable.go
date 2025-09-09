@@ -14,3 +14,7 @@ func main() {
 	}
 
 }
+
+// Go doesn't have ternary operator. agar apko kch check krna h,to normal if, else use krn hoga.
+
+// ise wale version me ternary operator supported ni ho skta h, future me suppor aa jaye ho skta h..
