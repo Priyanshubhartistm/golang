@@ -8,13 +8,13 @@ whoAmI := func(i interface{}) {
 		fmt.Println("its an integer")
 
 	case string:
-		fmt.Println("its an string")
+		fmt.Println("its a string")
 
 	}
 
-case bool:
-	fmt.Println("")
+	case bool:
+		fmt.Println("its a boolean")
 
 default:
-	fmt.Println("")
+	fmt.Println("other")
 }
