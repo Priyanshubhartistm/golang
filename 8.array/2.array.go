@@ -5,8 +5,11 @@ package main
 import "fmt"
 
 func main() {
-	var nums [5]int
+	var nums [4]int
 
 	nums[0] = 1
-	fmt.Println(len(nums))
+
+	// fmt.Println(nums[0])
+
+	fmt.Println(nums)
 }
