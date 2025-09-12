@@ -12,6 +12,7 @@ import "fmt"
 func main() {
 	var nums [4]int
 
+	// for array length
 	fmt.Println(len(nums))
 
 }
