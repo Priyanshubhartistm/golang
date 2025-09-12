@@ -1,6 +1,8 @@
 // string in array
 
-package main 
+package main
+
+import "fmt"
 
 func main() {
 
@@ -9,3 +11,5 @@ func main() {
 	name[2] = "priya"
 
 	fmt.Println(name)
+
+}
