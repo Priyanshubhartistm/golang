@@ -1,7 +1,7 @@
 // golang me  different types k switch hote h
 // 1. simple switch
-// 2. type switch
-// multiple switch
+// 2. multiple switch
+// 3. type switch
 
 package main
 
