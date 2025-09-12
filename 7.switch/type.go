@@ -24,4 +24,7 @@ func main() {
 
 		}
 	}
+
+	whoAmI("golang")
+
 }
