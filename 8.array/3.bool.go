@@ -1,10 +1,12 @@
-package main 
+// boolean array
 
+package main
 
-fun main() {
+import "fmt"
 
-	// boolean array
+func main() {
+
 	var vals [4]bool
-	//vals[0] = true
+	vals[2] = true
 	fmt.Println(vals)
 }
