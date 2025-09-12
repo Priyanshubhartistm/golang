@@ -11,5 +11,6 @@ func main() {
 
 	// fmt.Println(nums[0])
 
+	// if you want to print entire array
 	fmt.Println(nums)
 }
