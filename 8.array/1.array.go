@@ -16,3 +16,5 @@ func main() {
 	fmt.Println(len(nums))
 
 }
+
+// ARRAY KO KAISE DECLEAR KRTE H  = 1. var, 2. arrayName(nums), 3.[size] (yani ki kitne elements hone chahiye) , 4. or fir kis dataType ke element hone chahiye
