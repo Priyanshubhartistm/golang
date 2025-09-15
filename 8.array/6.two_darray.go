@@ -10,3 +10,9 @@ func main() {
 
 	fmt.Println(num)
 }
+
+// fixed size, that is predictable
+// memory optimization
+// constant time complexity for access and modification
+// multi-dimensional data representation
+// used in matrices, grids, tables, etc.
