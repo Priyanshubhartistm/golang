@@ -26,6 +26,7 @@ func main() {
 
 	// make functions milti h, go ke andr oo ek inbuilt function h, usko ham use krenge uske andr ham dete h, [] bracket or type dete h, ki slices k type kya h,
 	// () ise ke andr 2, 3 arguments dene padte h, jo ki h, initiale size, or size h, 2 ; mai chahta hu, y jo slices banegi uska size 2 hona chahiya.
+	// or 3rd argument h, capacity, or agar aap 3rd argument nhi dete ho to, to wo by default size ke barabar hi hota h.
 
 	var nums = make([]int, 2)
 	fmt.Println(nums)
