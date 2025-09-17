@@ -28,6 +28,8 @@ func main() {
 	// () ise ke andr 2, 3 arguments dene padte h, jo ki h, initiale size, or size h, 2 ; mai chahta hu, y jo slices banegi uska size 2 hona chahiya.
 	// or 3rd argument h, capacity, or agar aap 3rd argument nhi dete ho to, to wo by default size ke barabar hi hota h.
 
+	// agar aapko slices ke andr kuch initial values deni h, to aap aise bhi de skte ho
+
 	var nums = make([]int, 2)
 	fmt.Println(nums)
 
