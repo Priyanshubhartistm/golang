@@ -36,4 +36,3 @@ func main() {
 }
 
 // slices ke andr aapko kuch initial values deni h, to aap aise bhi de skte ho
-func createSliceWithValues()
