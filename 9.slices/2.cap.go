@@ -11,6 +11,8 @@ func main() {
 	//  usi length k (yani usi size ki capacity yaha par aa jayegi jo ki, 2)aa jayegi
 	// agr hame advance me pata h, ki mere slices ke andr kitne elements add hone wala h, to for example(5) to mai yaha par 3rd "parameters" de skta hu, jo ki h, initale capacity
 
+	// jab ham element add karte jayenge n to, automatically o intialize karega.(jaise phle 2 thi capacity but add krne pe new parameter ab capacity 5 ho gya)
+
 	// yaha pe ek inbuilt method ati h, jo ki h,cap; or (nums) ko iske andr pass krenge or
 	fmt.Println(cap(nums))
 }
