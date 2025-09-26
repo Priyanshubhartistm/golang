@@ -18,5 +18,6 @@ func main() {
 	// y jo output me 2 bar 0, 0 h, q ki int type h, isliya do br 0,0 h, agr boolean hota to 2 bar ; false, false aata
 
 	fmt.Println(cap(nums)) // output = 10
+	fmt.Println(len(nums))
 
 }
