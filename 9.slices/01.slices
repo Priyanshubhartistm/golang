@@ -1,0 +1,17 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	//var nums = ([]int, 2, 5)
+	numbers := []int{1, 2, 3, 4, 5}
+	fmt.Println(numbers)
+
+}
+
+/*
+Slices in Go are flexible, dynamic views into the elements of an array. Unlike arrays,
+slices do not have a fixed size and can grow or shrink as needed. They are commonly used for working with sequences of data because of their convenience and efficiency.
+Slices are created using the []type syntax and can be manipulated with built-in functions like append, copy, and len.
+*/
