@@ -14,4 +14,5 @@ func main() {
 	nums = append(nums, 5)
 	fmt.Println(nums)      // output = [0 0 1 2 3 4 5]
 	fmt.Println(cap(nums)) // output = 10
+
 }
