@@ -1,0 +1,2 @@
+// Copy function in slices
+
