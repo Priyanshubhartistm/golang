@@ -10,5 +10,6 @@ func main() {
 	nums[0] = 5
 
 	fmt.Println(nums)
+	fmt.Println(nums(cap))
 
 }
