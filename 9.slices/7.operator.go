@@ -14,11 +14,12 @@ func main() {
 
 	// Another rule 1:-
 
-	fmt.Println(nums[:1]) // output = 1
+	fmt.Println(nums[:2]) // output = 1
 	// q ki colon se phle kch ni hota h, to 0 index se start hota h.
 
 	// Another rule 2:-
 
-	fmt.Println(nums[1:])
+	fmt.Println(nums[1:]) // output = [2,3,4,5]
+	// y 1 index se lekr jaha tak element hoga uska value put kr dega.
 
 }
