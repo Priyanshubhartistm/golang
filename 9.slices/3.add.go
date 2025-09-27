@@ -14,10 +14,11 @@ func main() {
 	nums = append(nums, 3)
 	nums = append(nums, 4)
 	nums = append(nums, 5)
+
 	fmt.Println(nums) // output = [0 0 1 2 3 4 5]
 	// y jo output me 2 bar 0, 0 h, q ki int type h, isliya do br 0,0 h, agr boolean hota to 2 bar ; false, false aata
 
 	fmt.Println(cap(nums)) // output = 10
-	fmt.Println(len(nums))
+	fmt.Println(len(nums)) // output = 5
 
 }
