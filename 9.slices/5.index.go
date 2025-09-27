@@ -4,10 +4,10 @@ package main
 import "fmt"
 
 func main() {
-	var nums = make([]int, 2, 4)
+	var nums = make([]int, 2, 5)
 
 	nums[0] = 3
-	nums[0] = 5
+	nums[1] = 5
 
 	fmt.Println(nums)
 	fmt.Println(cap(nums))
