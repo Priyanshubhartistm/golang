@@ -15,6 +15,6 @@ func main() {
 
 	m["name"] = "golang"
 
-	// get an element a
+	// get an element and
 	fmt.Println(m["name"])
 }
