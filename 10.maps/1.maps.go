@@ -2,6 +2,7 @@
 // if you come to another language thn you knoe to, jo Hash table, js ke andr obj, python ke andr dictionary hote h,
 // to usi trh k data structure chahiya to apko maps use krna hoga
 // maps are reference types
+// maps are unordered collections of key-value pairs
 
 package main
 
