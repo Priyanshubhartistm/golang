@@ -27,6 +27,7 @@ func main() {
 	// setting an element
 
 	m["name"] = "golang"
+	m["area"] = "backend"
 
 	// get an element and
 
