@@ -34,4 +34,7 @@ func main() {
 	// m likhne ke bad
 	// bracket deke usme key dete h.
 	fmt.Println(m["name"], m["area"])
+
+	// IMP:- if key does not exists in the map then it returns zero value
+	fmt.Println(m["phone"]) // o/p = empty
 }
