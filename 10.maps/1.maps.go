@@ -33,5 +33,5 @@ func main() {
 
 	// m likhne ke bad
 	// bracket deke usme key dete h.
-	fmt.Println(m["name"])
+	fmt.Println(m["name"], m["area"])
 }
