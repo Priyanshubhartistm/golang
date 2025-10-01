@@ -29,5 +29,8 @@ func main() {
 	m["name"] = "golang"
 
 	// get an element and
+
+	// m likhne ke bad
+	// bracket deke usme key dete h.
 	fmt.Println(m["name"])
 }
