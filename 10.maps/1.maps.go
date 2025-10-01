@@ -15,6 +15,13 @@ func main() {
 
 	// creating map
 
+	// map ko sbse phle nam dte h, kch v nam de skte h jaisea(m,n)
+	// Then Make function use krenge jo slices ke liye use ki thi hamne, = make()
+	// Then keyword likhna h,
+	// map ke bad dena h, square bracket[]
+	// or ise bracket ke andr type likhna h, map ke "key" k type denge.
+	// or ise bracket ke bhar map ke "value" k type denge.
+
 	m := make(map[string]string)
 
 	// setting an element
