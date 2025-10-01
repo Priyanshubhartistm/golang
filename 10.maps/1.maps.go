@@ -5,7 +5,8 @@
 // maps are unordered collections of key-value
 // keys are unique
 // keys are of same type
-// values are of same type
+// values are of same
+// zero value of map is nil
 package main
 
 import "fmt"
