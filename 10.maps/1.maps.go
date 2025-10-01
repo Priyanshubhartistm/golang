@@ -4,7 +4,7 @@
 // maps are reference types
 // maps are unordered collections of key-value
 // keys are unique
-
+// keys are of same type
 package main
 
 import "fmt"
