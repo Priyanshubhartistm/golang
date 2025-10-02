@@ -25,7 +25,7 @@ func main() {
 
 	// 4. string iteration using range
 	for i, ch := range "hello" {
-		//rintln(i, ch) // 0 104 1 101 2 108 3 108 4 111
+		//println(i, ch) // 0 104 1 101 2 108 3 108 4 111
 
 		//agr apko har ek character ko print krna h to apko type conversion krna padega
 		println(i, string(ch)) // 0 h 1 e 2 l 3 l 4 o
