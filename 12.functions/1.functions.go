@@ -15,7 +15,7 @@ import "fmt"
 // 	return a + b
 // }
 
-// multiple return values in function
+//2. multiple return values in function
 func getlanguage() (string, string, string) {
 	return "golang", "python", "javascript"
 }
@@ -26,7 +26,7 @@ func main() {
 
 	fmt.Println((getlanguage())) // golang python javascript
 
-	// kise values ko agr ham use ni krte h, to ham _ (underscore) ka use kr skte h
+	// 3.  kise values ko agr ham use ni krte h, to ham _ (underscore) ka use kr skte h
 	l1, l2, _ := getlanguage()
 	fmt.Println(l1, l2) // golang python
 }
