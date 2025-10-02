@@ -16,6 +16,6 @@ func main() {
 	}
 
 	// println(num)
-	fmt.Println(sum)
+	fmt.Println(sum) // 21
 
 }
