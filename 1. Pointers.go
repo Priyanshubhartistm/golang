@@ -20,4 +20,6 @@ func main() {
 	fmt.Println("After changeNum:", num) // 10
 	// yahan pr num ki value change ni hui, kyuki go lang me by default pass by value hota h, y fir aapko pointer ka use krna pdta h
 	// pointer ka use krne k liye & use krte h
+	// & = address of operator
+	// * = dereference operator
 }
