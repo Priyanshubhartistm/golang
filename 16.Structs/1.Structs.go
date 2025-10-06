@@ -4,8 +4,11 @@
 package main
 
 
+// multiple field ko v ek jhugh pe group krne ke liye v strsuct use kr skte h.
 
-struct 
+
+// ex:= ek order ko represent krne ke liye ham yaha pe ek struct bana skte h,
+// order struct 
 
 
 fuc main() {
