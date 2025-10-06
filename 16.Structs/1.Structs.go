@@ -10,6 +10,12 @@ package main
 // ex:= ek order ko represent krne ke liye ham yaha pe ek struct bana skte h,
 // order struct 
 
+type order struct {
+	orderId int
+	customerName string
+	status string
+	amount float64
+}
 
 fuc main() {
 
