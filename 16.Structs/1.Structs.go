@@ -25,4 +25,8 @@ fuc main() {
 		amount: 100.50,
 	}
 
+	order.createdAt = time.Now()
+
+	fmt.Println("order struct", order)
+
 }
