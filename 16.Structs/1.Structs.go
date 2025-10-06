@@ -18,5 +18,11 @@ type order struct {
 }
 
 fuc main() {
+	order := order{
+		orderId: 1,
+		customerName: "John Doe",
+		status: "Pending",
+		amount: 100.50,
+	}
 
 }
