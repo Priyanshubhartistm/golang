@@ -3,30 +3,35 @@
 
 package main
 
+import (
+	"fmt"
+	"time"
+)
 
 // multiple field ko v ek jhugh pe group krne ke liye v strsuct use kr skte h.
 
-
 // ex:= ek order ko represent krne ke liye ham yaha pe ek struct bana skte h,
-// order struct 
+// order struct
 
 type order struct {
-	orderId int
+	Id           int
 	customerName string
-	status string
-	amount float64
+	status       string
+	amount       float64
 }
 
-fuc main() {
-	order := order{
-		orderId: 1,
+func main() {
+	myOrder := order{
+		Id:           1,
 		customerName: "John Doe",
-		status: "Pending",
-		amount: 100.50,
+		status:       "Pending",
+		amount:       100.50,
 	}
 
-	order.createdAt = time.Now()
+	myOrder.createdAt = time.Now()
 
-	fmt.Println("order struct", order)
+	fmt.Println(myOrder.status)
+
+	fmt.Println("order struct", myOrder)
 
 }
