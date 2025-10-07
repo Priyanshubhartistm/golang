@@ -35,4 +35,5 @@ func main() {
 	fmt.Println("order struct", myOrder)
 	// order struct {Id int; customerName string; status string; amount float64; createdAt time.Time} {Id:1 customerName:John Doe status:Pending amount:100.5 createdAt:2024-06-20 18:29:45.123456 +0000 UTC m=+0.000123456}
 
+	//
 }
