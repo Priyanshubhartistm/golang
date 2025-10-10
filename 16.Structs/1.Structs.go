@@ -41,3 +41,5 @@ func main() {
 //
 //
 //
+//
+// method = function with a receiver
