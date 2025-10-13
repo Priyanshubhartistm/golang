@@ -38,8 +38,5 @@ func main() {
 	// struct ke andr function ni bna skte h, but struct k sath method bna skte h
 }
 
-//
-//
-//
-//
 // method = function with a receiver
+// receiver = struct jiska method h
