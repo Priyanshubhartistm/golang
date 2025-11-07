@@ -22,6 +22,7 @@ func main() {
 	// pointer ka use krne k liye & use krte h
 	// & = address of operator
 	// * = dereference operator
-	//
+
+	fmt.Println("Address of num:", &num) // address of num
 
 }
