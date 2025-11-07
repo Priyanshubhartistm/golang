@@ -23,6 +23,7 @@ func main() {
 	// & = address of operator
 	// * = dereference operator
 
-	fmt.Println("Address of num:", &num) // address of num
+	fmt.Println("Address of num:", &num)      // address of num
+	fmt.Println("Value at address:", *(&num)) // value at address
 
 }
